@@ -1,7 +1,7 @@
 ## Hi there, I'm Time 👋
 
 🔭 I’m passionate about Game Developing 
-https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif
+![me]([https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif](https://i.gifer.com/fyrS.gif))
 <!--
 **ArcaneSand/ArcaneSand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
